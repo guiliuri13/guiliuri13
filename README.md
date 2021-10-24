@@ -1,5 +1,5 @@
 - Hi, I’m Guilherme iuri (@guiliuri13)
-- I’m interested in NodeJS, ReactJS, MySQL, HTML, Css...
+- I’m interested in NodeJS, ReactJS, TypeScript, JavaScript, MySQL, HTML, Css...
 - I’m currently learning NodeJS and ReactJS.
 - I’m looking to collaborate on TradeTool
 - Meet me at: 
