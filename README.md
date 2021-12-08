@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/686879/staging.toptal.net_qa_how-to-write-testable-code-and-why-it-matters-25bff356169b7ee5f878b7b591b84afa.png"/>
+</div>
     
 # Hello World, me chamo Guilherme Iuri.
 
@@ -9,8 +12,8 @@
 - Veja todos os meus certificados clicando <a href="https://cursos.alura.com.br/user/guiliuri/fullCertificate/d01f46916e7e645ee4f572502de23f5c/">aqui.</a>
 
 <div align="center">
-    <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=guiliuri13&show_icons=true&theme=dracula"/>
-    <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiliuri13&layout=compact&theme=dracula"/>
+    <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=guiliuri13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiliuri13&langs_count=12&include_all_commits=true&count_private=true&layout=compact&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
