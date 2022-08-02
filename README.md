@@ -4,12 +4,18 @@
      -->
 # </Hello World>
 
-- Trabalho atualmente em: TradeTool e Camsís tecnologia;
-- Entre em contato por:
-    Email: guiliuri14@gmail.com;
-    Discord: iuri#8766;
+- Coding on Carga online;
+- Contact me by:
+    <ul>
+      <li>
+          Email: guiliuri14@gmail.com;
+      </li>
+      <li>
+          Discord: iuri#8766;    
+      </li>
+    </ul>
     
-- Veja todos os meus certificados clicando <a href="https://cursos.alura.com.br/user/guiliuri/fullCertificate/d01f46916e7e645ee4f572502de23f5c/">aqui.</a>
+- Check my online certificates <a href="https://cursos.alura.com.br/user/guiliuri/fullCertificate/d01f46916e7e645ee4f572502de23f5c/">here.</a>
 
 <div align="center">
     <img height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=guiliuri13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
