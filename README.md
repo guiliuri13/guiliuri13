@@ -6,9 +6,6 @@
 			<li>
 				Email: guiliuri14@gmail.com;
 			</li>
-			<li>
-				Discord: iuri#8766;    
-			</li>
 		</ul>
 -   Check my online certificates <a href="https://cursos.alura.com.br/user/guiliuri/fullCertificate/d01f46916e7e645ee4f572502de23f5c/">here.</a>
 
@@ -39,5 +36,5 @@
 <div>
 	<a href = "mailto:guiliuri14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 	<a href="https://www.linkedin.com/in/guilherme-iuri-de-barros-5b2b54212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-	<a height="50" href="https://cursos.alura.com.br/user/guiliuri" target="_blank"><img height="28" src="https://media.glassdoor.com/sqll/2500530/alura-squarelogo-1602197362646.png" target="_blank"></a> 
+	<a height="50" href="https://cursos.alura.com.br/user/guiliuri" target="_blank"><img height="28" src="https://i0.wp.com/www.hipsters.tech/wp-content/uploads/2020/05/banner-hipsters-alura.png?fit=750%2C200&ssl=1" target="_blank"></a> 
 </div>
